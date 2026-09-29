@@ -4,10 +4,11 @@
 *
 * @author        Andrew Hateley-Browne @ Afterword
 * @version       1.0.0
+* @license       GPL-2.0+
 *
 * Plugin Name:       Lead Editor Role
 * Plugin URI:        https://afterword.com.au/plugins/lead-editor-role
-* Description:       A simple accompaniment plugin for the Redirections plugin. Adds "Lead Editor" role with Editor and Redirection management capabilities.
+* Description:       A simple WordPress plugin to extend the Redirections plugin. Adds "Lead Editor" role with Editor and Redirection management capabilities.
 * Version:           1.0.0
 * Author:            Andrew Hateley-Browne @ Afterword
 * Author URI:        https://github.com/ahateleybrowne
@@ -15,7 +16,7 @@
 * Text Domain:       aw
 * Domain Path:       /lang
 * Requires PHP:      8.1
-*
+* License:           GPL-2.0+
 */
 
 /*
